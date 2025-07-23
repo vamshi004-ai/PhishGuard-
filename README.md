@@ -38,6 +38,8 @@ React + TypeScript + TailwindCSS + AceternityUI - Chrome extension
 Deployment - AWS EC2
 
 Work flow
-image
+<img width="933" height="528" alt="phisx image" src="https://github.com/user-attachments/assets/d9f3f4fb-841b-44c5-b005-88920c16831c" />
+
+
 
 email: vamshi0041@gmail.com

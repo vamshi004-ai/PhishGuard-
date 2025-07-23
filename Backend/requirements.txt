@@ -1,0 +1,6 @@
+flask
+scikit-learn
+pandas
+numpy
+sklearn.metrics
+flask_cors
